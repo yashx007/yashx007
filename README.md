@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreyash Bhosale  
 
-<!--
-**yashx007/yashx007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student in **Artificial Intelligence & Data Science**  
+💡 Interested in **Backend Development, DevOps, and Generative AI**  
+⚡ Passionate about building scalable apps and solving real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- **Languages:** C, C++, Python, SQL  
+- **Web:** HTML, Tailwind CSS, React, Next.js, Node.js, Express.js, TypeScript  
+- **DevOps & Tools:** Git, Docker, Kubernetes, Jenkins, GitHub Actions, AWS (Basic)  
+- **AI/ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Tableau, Generative AI  
+
+---
+
+## 🌐 Connect with Me  
+📧 [Email](mailto:shreyashpb16@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shreyash-bhosale-33ab481b9/)  
+💻 [GitHub](https://github.com/yashx007)  
