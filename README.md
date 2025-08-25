@@ -24,10 +24,11 @@
 
 ---
 
-## 📊 GitHub Metrics Dashboard
+## 📊 GitHub Metrics
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashx007/yashx007/main/github-metrics.svg" width="95%"/>
 </p>
+
 
 ---
 
