@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Metrics Dashboard
 <p align="center">
-  <img src="https://github.com/yashx007/yashx007/blob/main/github-metrics.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/yashx007/yashx007/main/github-metrics.svg" width="95%"/>
 </p>
 
 ---
