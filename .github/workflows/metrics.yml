@@ -3,25 +3,41 @@ name: Generate GitHub Metrics
 on:
   schedule: # Auto update every 24h
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: # Allow manual trigger from Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
+          # ⚡ REQUIRED: GitHub token with repo + read:user access
           token: ${{ secrets.METRICS_TOKEN }}
           user: yashx007
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-          # Disable achievements (caused the error in your screenshot)
+          # 🚫 Disabled achievements (this was causing your error)
           plugin_achievements: no
 
-          # You can add other plugins if you want (stars, languages, habits etc.)
-          # Example:
-          # plugin_languages: yes
-          # plugin_habits: yes
+          # 📊 Languages plugin
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: programming, markup, data
+
+          # 🌟 Stars plugin
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+          # ⏰ Habits (coding habits based on commit history)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+
+          # 📂 Repositories plugin
+          plugin_repositories: yes
+          plugin_repositories_featured: yashx007/github-profile, yashx007/PROJECT-1
