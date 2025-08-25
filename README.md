@@ -32,10 +32,11 @@
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashx007/yashx007/output/github-contribution-grid-snake.svg" alt="light snake"/>
-  <img src="https://raw.githubusercontent.com/yashx007/yashx007/output/github-contribution-grid-snake-dark.svg" alt="dark snake"/>
-  <img src="https://raw.githubusercontent.com/yashx007/yashx007/output/github-contribution-grid-snake-rainbow.svg" alt="rainbow snake"/>
+  <img src="https://raw.githubusercontent.com/yashx007/yashx007/output/snake.svg" alt="light snake"/>
+  <img src="https://raw.githubusercontent.com/yashx007/yashx007/output/snake-dark.svg" alt="dark snake"/>
+  <img src="https://raw.githubusercontent.com/yashx007/yashx007/output/snake-rainbow.svg" alt="rainbow snake"/>
 </p>
 
 ---
