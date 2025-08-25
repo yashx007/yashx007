@@ -21,9 +21,17 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/yashx007/yashx007/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
 ## 🧩 Cool Insights
 - 📅 3D **Isometric Commit Calendar**  
-- 🈷️ **Languages Analysis** (what I code in)  
+- 🈷️ **Languages Analysis**  
 - 🏆 **Achievements & Badges**  
 - 💡 **Coding Habits & Activity**  
 - 🌇 **GitHub Skyline (3D city view of contributions)**  
