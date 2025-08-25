@@ -45,16 +45,20 @@ Systems-level **OS scheduler** using **C++ & POSIX Threads** with Round Robin & 
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashx007&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashx007&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
+  <!-- Contribution graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashx007&theme=radical&bg_color=0f0f0f&hide_border=true" />
 </p>
+
+<p align="center">
+  <!-- Stars, repos, commits -->
+  <img src="https://img.shields.io/github/stars/yashx007?color=yellow&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-70-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-16-blue?style=for-the-badge" />
+</p>
+
 
 ---
 
