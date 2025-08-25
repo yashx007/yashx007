@@ -30,24 +30,18 @@
 
 ## 🧩 Featured Projects  
 
-<table>
-<tr>
-<td width="50%">
-  <h3 align="center">🚀 AI LMS SaaS Platform</h3>
-  <p>Full-stack LMS powered by Generative AI, Next.js, and Docker with scalable CI/CD pipelines.</p>
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l6MzAybjR2azFmcDVjMmd4NWhuZmpmeWZsY2oxbnEwNnlsbm9rZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41Yvpi3Vi7M7oZ5C/giphy.gif" width="250" />
-  </p>
-</td>
-<td width="50%">
-  <h3 align="center">🎬 QuickClip – AI Short Video Generator</h3>
-  <p>Cloud-native backend tool for generating short videos using Replicate AI, Google TTS, and Firebase.</p>
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWc0aHpocG5scHdnNjY5N3VqbXJlb2V5a2tvMHRsZXh6bGc5ZjN0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GcHRtv3vFZu5Tz5Jt3/giphy.gif" width="250" />
-  </p>
-</td>
-</tr>
-</table>
+### 🚀 AI LMS SaaS Platform  
+Full-stack LMS powered by Generative AI, **Next.js**, and **Docker** with scalable CI/CD pipelines.  
+
+---
+
+### 🎬 QuickClip – AI Short Video Generator  
+Cloud-native backend tool for generating short videos using **Replicate AI**, **Google TTS**, and **Firebase**.  
+
+---
+
+### ⚙️ Process Scheduler Simulation  
+Systems-level **OS scheduler** using **C++ & POSIX Threads** with Round Robin & Priority Scheduling.  
 
 ---
 
