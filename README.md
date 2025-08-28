@@ -18,9 +18,31 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### 🚀 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,react,nextjs,nodejs,express,tailwind,docker,kubernetes,jenkins,aws,git,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+
+### 💻 Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,tailwind,react,nextjs,nodejs,express,typescript" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws" />
+</p>
+
+### 📊 Machine Learning & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />  
+</p>
+
+- **Libraries/Frameworks:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib  
+- **Visualization/BI:** Tableau  
+- **Gen-AI & NLP:** Experience with LLMs and Generative AI  
 
 ---
 
