@@ -11,9 +11,10 @@
 ---
 
 ## ⚡ About Me
-- 🎓 Final-year **B.Tech in Artificial Intelligence & Data Science**  
+- 🎓 Final-year **B.Tech in Artificial Intelligence & Data Science (CGPA 8.95)**  
 - 💡 Exploring **Backend Development | DevOps | Generative AI**  
 - 🌍 Loves **building scalable apps & solving real-world problems**  
+- 🛠 Experienced in **AI pipelines, NLP, SaaS Platforms, DevOps CI/CD**  
 
 ---
 
@@ -21,8 +22,7 @@
 
 ### 🚀 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
 </p>
 
 ### 💻 Development
@@ -37,24 +37,56 @@
 
 ### 📊 Machine Learning & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />  
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- **Libraries/Frameworks:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, NLTK, SpaCy   
-- **Visualization/BI:** Tableau  
-- **Gen-AI & NLP:** BERT, SLMs, LLMs, Gemini, Hugging face  
+- **Libraries / Frameworks:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+- **Visualization / BI:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+- **Gen-AI & NLP:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/BERT-FFC107?style=for-the-badge&logo=google&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SLMs-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFAE57?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashx007&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashx007&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashx007&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
+
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashx007/yashx007/output/snake-dark.svg" alt="dark snake"/>
 </p>
 
 ---
-
 
 ## 🌐 Connect With Me
 <p align="center">
