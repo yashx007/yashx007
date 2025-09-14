@@ -40,16 +40,9 @@
   <img src="https://skillicons.dev/icons?i=python" />  
 </p>
 
-- **Libraries/Frameworks:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib  
+- **Libraries/Frameworks:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, NLTK, SpaCy   
 - **Visualization/BI:** Tableau  
-- **Gen-AI & NLP:** Experience with LLMs and Generative AI  
-
----
-
-## 📊 GitHub Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashx007/yashx007/main/github-metrics.svg" width="95%"/>
-</p>
+- **Gen-AI & NLP:** BERT, SLMs, LLMs, Gemini, Hugging face  
 
 
 ---
