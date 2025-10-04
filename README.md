@@ -8,15 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+%26+DS+Engineer+👨‍💻;Backend+Developer+⚙️;DevOps+Explorer+🐳;Generative+AI+Builder+🤖;Always+Learning+New+Things+🔥" />
 </p>
 
----
+
 
 ## ⚡ About Me
-- 🎓 Final-year **B.Tech in Artificial Intelligence & Data Science (CGPA 8.95)**  
-- 💡 Exploring **Backend Development | DevOps | Generative AI**  
-- 🌍 Loves **building scalable apps & solving real-world problems**  
-- 🛠 Experienced in **AI pipelines, NLP, SaaS Platforms, DevOps CI/CD**  
 
----
+* 🎓 Final-year **B.Tech in AI & Data Science (CGPA: 8.95)** at VIIT Pune
+* 🤖 Focused on **AI Engineering | Backend Systems | DevOps Automation**
+* 🧠 Hands-on with **Generative AI, NLP pipelines, and cloud-native solutions**
+* 🚀 Built and deployed full-stack SaaS platforms with **Docker, CI/CD, Firebase**
+* 🌱 Passionate about **open-source, scalable systems, and practical AI applications**
+
 
 ## 🛠️ Tech Stack
 
@@ -66,7 +67,6 @@
 </p>
 
 
----
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -78,7 +78,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashx007&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
----
 
 
 ## 🐍 Contribution Snake
@@ -86,7 +85,6 @@
   <img src="https://raw.githubusercontent.com/yashx007/yashx007/output/snake-dark.svg" alt="dark snake"/>
 </p>
 
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -95,7 +93,7 @@
   <a href="https://github.com/yashx007"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
+
 
 <!-- Footer -->
 <p align="center">
