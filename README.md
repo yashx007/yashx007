@@ -32,7 +32,7 @@
 
 ### ⚙️ Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws" />
+  <img src="https://skillicons.dev/icons?i=Linux,git,github,docker,kubernetes,jenkins,aws" />
 </p>
 
 ### 📊 Machine Learning & Data Science
