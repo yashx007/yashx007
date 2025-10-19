@@ -13,8 +13,7 @@
 ## ⚡ About Me
 
 * 🤖 Focused on **AI Engineering | Backend Systems | DevOps Automation**
-* 🧠 Hands-on with **Generative AI, NLP pipelines, and cloud-native solutions**
-* 🚀 Built and deployed full-stack SaaS platforms with **Docker, CI/CD, Firebase**
+* 🚀 Skilled in DevOps, CI/CD, and production-ready software engineering
 * 🌱 Passionate about **open-source, scalable systems, and practical AI applications**
 
 
