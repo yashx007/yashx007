@@ -10,11 +10,11 @@
 
 
 
-## ⚡ About Me
+## About Me
 
-* 🤖 Focused on **AI Engineering | Backend Systems | DevOps Automation**
-* 🚀 Skilled in DevOps, CI/CD, and production-ready software engineering
-* 🌱 Passionate about **open-source, scalable systems, and practical AI applications**
+* Focused on **AI Engineering | Backend Systems | DevOps Automation**
+* Skilled in DevOps, CI/CD, and production-ready software engineering
+* Passionate about **open-source, scalable systems, and practical AI applications**
 
 
 ## 🛠️ Tech Stack
