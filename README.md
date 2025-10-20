@@ -17,7 +17,7 @@
 * Passionate about **open-source, scalable systems, and practical AI applications**
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🚀 Programming Languages
 <p align="center">
