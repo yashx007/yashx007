@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey!%20I'm%20Shreyash%20🚀&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&desc=AI%20%7C%20Systems%20Programming%20%7C%20Backend%20%7C%20DevOps&descAlign=50&descAlignY=60"/>
-</p>
-
 
 <!-- Typing Animation -->
 <p align="center">
@@ -95,7 +90,3 @@
 
 
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-</p>
