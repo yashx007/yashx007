@@ -1,7 +1,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Engineer+👨‍💻;Systems+Programmer+🖥️;Backend+Developer+⚙️;DevOps+Explorer+🐳;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Engineer+👨‍💻;Systems+Programmer+🖥️;Backend+Developer+⚙️;DevOps+🐳;Always+Learning+New+Things" />
 </p>
 
 
@@ -44,20 +44,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-- **Visualization / BI:**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
-- **Gen-AI & NLP:**  
-<p align="center">
-  <img src="https://img.shields.io/badge/BERT-FFC107?style=for-the-badge&logo=google&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SLMs-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFAE57?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 
