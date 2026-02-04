@@ -30,22 +30,6 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,aws" />
 </p>
 
-### 📊 Machine Learning & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- **Libraries / Frameworks:**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
 
 
 ## 📈 GitHub Stats
